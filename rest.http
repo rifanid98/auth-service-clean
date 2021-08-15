@@ -1,0 +1,11 @@
+###
+POST http://localhost:8080/auth/register
+Content-Type: application/json
+
+{
+  "type": "anonymous",
+  "name": "adnin",
+  "email": "adninsijawa.office@gmail.com",
+  "phone": "089606415122"
+}
+###
